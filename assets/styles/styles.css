@@ -40,13 +40,13 @@ a {
 .burger-header__cross {
   width: 40px;
   height: 40px;
-  background-image: url("/assets/images/burger.svg");
+  background-image: url("../../assets/images/burger.svg");
   background-repeat: no-repeat;
 }
 .burger-header__search {
   width: 40px;
   height: 40px;
-  background-image: url("/assets/images/search.svg");
+  background-image: url("../../assets/images/search.svg");
   background-repeat: no-repeat;
 }
 .menu-buger--button-grayscale {
@@ -117,19 +117,19 @@ a {
 .burger-footer__tel {
   width: 40px;
   height: 40px;
-  background-image: url("/assets/images/tel.svg");
+  background-image: url("../../assets/images/tel.svg");
   background-repeat: no-repeat;
 }
 .burger-footer__chat {
   width: 40px;
   height: 40px;
-  background-image: url("/assets/images/chat.svg");
+  background-image: url("../../assets/images/chat.svg");
   background-repeat: no-repeat;
 }
 .burger-footer__profile {
   width: 40px;
   height: 40px;
-  background-image: url("/assets/images/profile.svg");
+  background-image: url("../../assets/images/profile.svg");
   background-repeat: no-repeat;
 }
 .burger-footer__mail {
