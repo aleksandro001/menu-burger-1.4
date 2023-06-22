@@ -12,11 +12,14 @@ a {
   color: #1b1c21;
   text-decoration: none;
 }
+body{
+  margin: 0;
+  padding: 0;
+}
 
 .menu-buger {
   font-family: "TTLakes-Medium";
   max-width: 320px;
-  margin: 20px;
   color: #1b1c21;
   background: #ffffff;
   box-shadow: -2px 0px 4px rgba(69, 79, 126, 0.02),
@@ -27,7 +30,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 100vh;
+  min-height: 100vh;
 }
 .burger-header {
 }
